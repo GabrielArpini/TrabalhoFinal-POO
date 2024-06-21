@@ -1,0 +1,17 @@
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\bin\Release\x86\sqlite3.dll
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\bin\Release\x64\sqlite3.dll
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\bin\Release\ControleFinanceiro.exe.config
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\bin\Release\ControleFinanceiro.exe
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\bin\Release\ControleFinanceiro.pdb
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.csproj.AssemblyReference.cache
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.LogarForms.resources
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.RegistrarForms.resources
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.MainMenuForms.resources
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.gerenciarForms.resources
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.FormConfig.resources
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.Properties.Resources.resources
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.csproj.GenerateResource.cache
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.exe
+C:\Users\Ritinha\Desktop\POOTrabalhoFinal\ControleFinanceiro\ControleFinanceiro\obj\Release\ControleFinanceiro.pdb
